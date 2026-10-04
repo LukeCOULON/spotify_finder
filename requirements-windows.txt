@@ -1,0 +1,1 @@
+winrt-Windows.Media.Control>=2.0.0
